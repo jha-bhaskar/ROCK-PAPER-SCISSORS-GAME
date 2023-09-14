@@ -1,0 +1,7 @@
+User and Computer both chosses from Rock , Paper and Scissors.
+
+Rock win over Scissors
+Paper win over Rock
+Scissors win over Paper
+
+
